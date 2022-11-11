@@ -1,7 +1,6 @@
-- 👋 Hello there, I am Muhamad Ali Ansari
-- 👀 I am a student who is interested in programming in C language
-- 🌱 I’m currently doing BsCs from FAST-NUCES
-- 💞️ I’m looking to collaborate on any C project that links with my domain
+- 👋 Hello, it's me Ali Ansari
+- 👀 I am an undergraduate student whose interest revolves around programming in C language
+- 🌱 Currently enrolled in FAST-NUCES University
 - 📫 Email: aliansari220843@gmail.com
 
 <!---
