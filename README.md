@@ -1,5 +1,5 @@
 - 👋 Hello, it's me Ali Ansari
-- 👀 I am an undergraduate student whose interest revolves around programming in C language
+- 👀 I am an undergraduate student whose interest revolves around problem solving creatively
 - 🌱 Currently enrolled in FAST-NUCES University
 - 📫 Email: aliansari220843@gmail.com
 
