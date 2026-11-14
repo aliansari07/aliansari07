@@ -6,4 +6,4 @@ Focus Areas: Full-Stack Development, Clean Architecture and Deep Learning & Comp
 
 Always open to discussing tech, engineering problems, and new ideas.
 
-🔗 [Connect on Linkedin](https://linkedin.com/in/aliansari63224135) | 📧 [Email aliansari224135@gmail.com ](mailto:aliansari224135@gmail.com)
+🔗 [Connect on Linkedin](https://linkedin.com/in/aliansari63224135) | 📧 [Email: aliansari224135@gmail.com](mailto:aliansari224135@gmail.com)
