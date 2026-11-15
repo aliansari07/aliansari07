@@ -12,8 +12,6 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aliansari220843@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.com/users/783803257713721345" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://medium.com/@aliansari220843" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/aliansari220843" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=aliansari07&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
