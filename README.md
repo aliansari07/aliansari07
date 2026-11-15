@@ -156,6 +156,25 @@ public sealed class MuhammadAliAnsari : IDeveloper
 </div>
 
 <br/>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </picture>
+
+  <br/><br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aliansari07&theme=dark&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=F0F9FF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=8B949E" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bae6fd,30:38bdf8,70:0284c7,100:0d1117&height=140&section=footer" width="100%" alt="footer"/>
