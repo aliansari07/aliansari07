@@ -113,26 +113,6 @@ public sealed class MuhammadAliAnsari : IDeveloper
 
 </details>
 
-<br/>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/aliansari07/aliansari07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-  </picture>
-
-</div>
-
-<br/>
-
----
-<br/>
 
 ---
 
