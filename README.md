@@ -147,7 +147,7 @@ public sealed class MuhammadAliAnsari : IDeveloper
   <br/><br/>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=aliansari07&theme=dark&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=F0F9FF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=8B949E" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=aliansari07&theme=dark&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=F0F9FF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=8B949E&v=2" alt="GitHub Streak" />
   </a>
 
 </div>
